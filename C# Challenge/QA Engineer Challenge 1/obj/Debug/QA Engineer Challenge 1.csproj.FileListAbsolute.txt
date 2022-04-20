@@ -1,0 +1,7 @@
+C:\Users\Phoenix\Desktop\QA\C# Challenge\QA Engineer Challenge 1\QA Engineer Challenge 1\bin\Debug\QA Engineer Challenge 1.exe.config
+C:\Users\Phoenix\Desktop\QA\C# Challenge\QA Engineer Challenge 1\QA Engineer Challenge 1\bin\Debug\QA Engineer Challenge 1.exe
+C:\Users\Phoenix\Desktop\QA\C# Challenge\QA Engineer Challenge 1\QA Engineer Challenge 1\bin\Debug\QA Engineer Challenge 1.pdb
+C:\Users\Phoenix\Desktop\QA\C# Challenge\QA Engineer Challenge 1\QA Engineer Challenge 1\obj\Debug\QA Engineer Challenge 1.csprojAssemblyReference.cache
+C:\Users\Phoenix\Desktop\QA\C# Challenge\QA Engineer Challenge 1\QA Engineer Challenge 1\obj\Debug\QA Engineer Challenge 1.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\Desktop\QA\C# Challenge\QA Engineer Challenge 1\QA Engineer Challenge 1\obj\Debug\QA Engineer Challenge 1.exe
+C:\Users\Phoenix\Desktop\QA\C# Challenge\QA Engineer Challenge 1\QA Engineer Challenge 1\obj\Debug\QA Engineer Challenge 1.pdb
