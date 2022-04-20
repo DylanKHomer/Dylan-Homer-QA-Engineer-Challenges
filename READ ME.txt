@@ -1,0 +1,8 @@
+C# Challenge:
+The files for the C# challenge are located in the C# Challenge folder. To launch the project, launch "QA Engineer Challenge 1.exe" within that folder
+
+Unity Challenge:
+The files for the Unity challenge are located in the Unity Challenge folder. To launch the updated build of Trash Dash, launch "QA Engineer Unity Challenge.exe" within that folder
+
+Test Cases Challenge:
+The PDF for the Test Cases challenge is in the Trash Dash Test Cases folder.
